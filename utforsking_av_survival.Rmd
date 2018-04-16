@@ -1,8 +1,6 @@
 ---
 title: "Utforsking av overlevelses-analyse"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 Inspirert av ["Steps to perform survival analysis in R](https://www.r-bloggers.com/steps-to-perform-survival-analysis-in-r/amp/) og MainDonald og Braun (2003) "Data analysis and graphics using R".
